@@ -1,0 +1,15 @@
+#cart {
+    top: 60px;
+    right: 0;
+}
+
+.banniere {
+  background:red  url('../img/banniere.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 500px;
+  line-height: 30px;
+  text-align: center;
+  padding-top: 15%;
+}

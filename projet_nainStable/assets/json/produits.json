@@ -1,0 +1,9 @@
+$scope.product = [
+    //JSON PRODUITS
+    {"prix":"45.75", "description":"Nain de jardin rockeur sur moto en pvc", "qte":"17", "marque":"Bikeur", "image":"assets/img/nain-rockeur.png"},
+    {"prix":"29.95", "description":"Grand nain sage en resine", "qte":"10", "marque":"Rocker Gnome", "image":"assets/img/nain-sage.png"},
+    {"prix":"20.00", "description":"Nain a la plage en résine", "qte":"12", "marque":"KT", "image":"assets/img/nain-plage1.png"},
+    {"prix":"26.89", "description":"Nain faisant un barbecue en polyrésine", "qte":"6", "marque":"BVB", "image":"assets/img/nain-barbecue.png"},
+    {"prix":"20.09", "description":"Nain assis sur son trône en résine", "qte":"15", "marque":"BigMouth", "image":"assets/img/nain-badass.png"},
+    {"prix":"29.95", "description":"Nain faisant du yoga avec une grenouille en résine", "qte":"8", "marque":"GlitZGlam", "image":"assets/img/nain-zen.png"}
+  ];
